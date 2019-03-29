@@ -10,30 +10,48 @@ We are dividing our Meetup Sessions in Multiple  phases.Theses Phases are define
 
 #### Phase-1
 
-* Getting Started with Machine Learning and Deep Learning with Deployment Demo on Local machine.
-* Deep Dive into Neural Networks and CNNs
-* Image Classification and Different CNN Architecture.
-* Transfer learning and Model Fine tuning on Birds DataSet 
-* Applications of CNNs
+* [Getting Started with Machine Learning and Deep Learning with Deployment Demo on Local machine.](Phase - 1/Session-1 and 2)
+* [Deep Dive into Neural Networks and CNNs](Phase - 1/Session3)
+* [Image Classification and Different CNN Architectures.](Phase - 1/Session4)
+* [Transfer learning and Model Fine tuning on Birds Data set](Phase - 1/Session5)
+  * Creating image data set from google image
+  * use Transfer learning to train
+  * Use Super Convergence Methods to fine tune model and get good results   
+* [Applications of CNNs](Phase - 1/Session6)
   * Feature Map Visualization
   * Style Transfer
   * Deep Dream
   * Neural Audio Style Transfer
-
-### Upcoming !!
+* Phase 1 Recording and Assignment
 
 #### Phase-2 
 
 * Object Detection
+  * SSD
+    * Training SSD from scratch
+    * Improving SSD using Focal Loss
+  * Faster R-CNN
+    * Training Faster R-CNN
+    * Feature Pyramid Network
+    * Region Based FCN
+    * Light Head Faster R-CNN
 * Semantic Segmentation
+  * FCN and U-NET
+  * Pyramid Scene Parsing Network
+  * Deep Lab v3
 * Instance Segmentation
-* Solving Real world Segmentation problems from Kaggle.
+  * MASK R-CNN
 * Similarity Learning
+  * Face Recognition
+
+
+
+### Upcoming !!
 
 #### Phase-3
 
-* Image Captioning
-* Generative Models
+* Auto Encoders
+* GAN
 
 
 
