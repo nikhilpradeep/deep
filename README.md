@@ -8,7 +8,7 @@ We will be discussing current trend in deep-learning and it's  surprisingly effe
 
 We are dividing our Meetup Sessions in Multiple  phases.Theses Phases are defined based on the maturity and complexity of  the problems that we will solve using Deep Learning.Under each phase we  will have multiple sessions where we will go in depth to find the  solution and become expert in solving those use cases. Details on the  Phase details are listed below.
 
-#### Phase-1
+#### [Phase-1](Phase - 1)
 
 * [Getting Started with Machine Learning and Deep Learning with Deployment Demo on Local machine.](Phase - 1/Session-1 and 2)
 * [Deep Dive into Neural Networks and CNNs](Phase - 1/Session3)
@@ -24,7 +24,7 @@ We are dividing our Meetup Sessions in Multiple  phases.Theses Phases are define
   * Neural Audio Style Transfer
 * Phase 1 Recording and Assignment
 
-#### Phase-2 
+#### [Phase-2](Phase - 2) 
 
 * Object Detection
   * SSD

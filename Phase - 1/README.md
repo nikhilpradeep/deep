@@ -109,9 +109,9 @@ Model Deployment
 
 ## Feature Map Visualization
 
-![](/home/amidezcod/Dopamine/ENTIRETY.AI/meetup-intuition-to-implementation/Phase%20-%201/Session6/featuremap1.png)
+![](Session6/featuremap1.png)
 
-![](/home/amidezcod/Dopamine/ENTIRETY.AI/meetup-intuition-to-implementation/Phase%20-%201/Session6/featuremap2.png)
+![](Session6/featuremap2.png)
 
 ## Style Transfer
 
