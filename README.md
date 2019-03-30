@@ -72,4 +72,4 @@ The Repository is currently maintained by [Utkarsh Vardhan](https://github.com/u
 
 ## Licensing
 
-Code and Content in this Repository is MIT-LICENSED as found in LICENSE File.
+The Code, Documentation and The Youtube Videos in this Repository is Creative Commons Zero v1.0 Universal LICENSED as found in LICENSE File.
