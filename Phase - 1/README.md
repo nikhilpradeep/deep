@@ -69,7 +69,7 @@ Model Deployment
    5. Batch Normalization
    6. Layer Normalization (Brief)
 4. Advance CNN Architectures
-   4. LeNet
+   1. LeNet
    2. AlexNet
    3. ZfNet
    4. Vgg
