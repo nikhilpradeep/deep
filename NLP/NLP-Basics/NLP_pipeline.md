@@ -30,13 +30,15 @@ If work is need to done with individual words and phrases such as **text generat
 
 If numerical representation is done for the text then we can utilize any machine learning model.
 
-![](/home/amidezcod/Dopamine/MYPROJECT/NLP/images/Screenshot from 2019-05-02 02-54-34.png)
+![](images/Screenshot from 2019-05-02 02-54-34.png)
 
 
 
 ### Part of Speech Tagging
 
 ![](images/Screenshot from 2019-05-02 03-04-33.png)
+
+
 
 **Note**: Part-of-speech tagging using a predefined  grammar like this is a simple, but limited solution. It can be very  tedious and error-prone for a large corpus of text, since you have to  account for all possible sentence structures and tags!
 
