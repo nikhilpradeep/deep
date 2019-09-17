@@ -1,12 +1,9 @@
-# [Session 1 & 2](Session-1 and 2)
+# [Session 1 and 2 ](Session-1 and 2)
+The objective of Session 1 will be to get you started with Machine Learning and Deep Learning by  going over the key ideas and concepts required to build any Machine Learning or Deep Learning models.In the session we,will cover several Hands on exercises to resonate to our promise ***Intuition to Implementation*** as it is rightly said by Joel Spolsky :“Its harder to read code than to write it.”
 
-#### Agenda:
+What we will cover:
 
-1. Introduction to Python
-2. Introduction to Numpy
-3. Introduction to Matplotlib
-4. Machine Learning Basics
-
+1. Machine Learning Basics
       * What are Algorithms
 
       * Bias vs Variance trade off
@@ -20,6 +17,7 @@
       * Linear Regression
 
       * Logistic Regression
+
 5. Deep Learning Basics 
 
       * Neural Networks
@@ -29,16 +27,12 @@
       * Activation and Loss Function
 
       * Optimizers
+
 6. Building Image Classification Model using Keras and Pytorch (MNIST Dataset).
-7. Flask Deployment on Local System
-
-
 
 # [Session3](Session3)
 
-**Agenda:**
-
-Convolution and its concepts
+Convolution and its concepts 
 
 1. Concept of Convolution
 2. Kernel
@@ -49,39 +43,41 @@ Convolution and its concepts
 7. Receptive field
 8. Loss functions(Maximum Likelihood,Cross Entropy)
 
-Model Deployment 
+
+Model Deployment (Hands-on)
 
 1. CNN Model Deployment on the Flask Web Framework.
 2. Inferencing the deployed model in Real-time
 
-
-
 # [Session4](Session4)
 
-#### Agenda:
 1. Weight Initialization Schemes
-2. Data Augmentation
-3. Regularization and Normalization
-   1. L1 Regularization
-   2. L2 Regularization
-   3. Dropout
-   4. Label Smoothing
-   5. Batch Normalization
-   6. Layer Normalization (Brief)
-4. Advance CNN Architectures
-   1. LeNet
-   2. AlexNet
-   3. ZfNet
-   4. Vgg
-   5. ResNet
-   6. ResNet Wide
-   7. DenseNet 
-   8. MobileNet
-   9. Inception v1
-   10. Inception v2 and v3
-5. [Dogs vs Cats Classification Kaggle Kernel](Session4/Pytorch_cat_vs_dog.ipynb)
-6. [Dogs vs Cats Classification Colab version](Session4/Pytorch_Dog_vs_Cat_colab.ipynb)
-7. [Dogs vs Cats Classification Keras Version](Session4/Kaggle_Cat_vs_Dogs_vgg19.ipynb)
+2. Regularization and Normalization
+
+    1. L1 Regularization
+    2. L2 Regularization
+    3. Dropout
+    4. Label Smoothing
+    5. Batch Normalization
+    6. Layer Normalization (Brief)
+
+3. Data Augmentation
+
+4.	Advance CNN Architectures
+
+    1. LeNet
+    2. AlexNet
+    3. ZfNet
+    4. Vgg
+    5. ResNet
+    6. ResNet Wide
+    7. DenseNet 
+    8. MobileNet
+    9. Inception v1
+    10. Inception v2 and v3
+
+5. DenseNet Trained from scratch on cifar 10 dataset both in pytorch and keras.
+6. Vgg19 Trained from scratch on cats vs dogs both in pytorch in keras.
 
 # [Session5](Session5)
 
