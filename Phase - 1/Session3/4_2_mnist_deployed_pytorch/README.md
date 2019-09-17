@@ -22,7 +22,6 @@ Then connect to : http://127.0.0.1:5000/ in the browser
 <img src="data_img/HomePage.PNG">
 
 <p align="center"> Then, after cliking on the button you can visualize your model</p>
-
 <img src="data_img/draw_number.PNG">
 
 ## Built with
@@ -61,11 +60,11 @@ The above architecture used gave acc of 99.4% for just 5 epochs
 
 # Steps for Training and Deployment
 
-1. Train the CNN model on **MNIST dataset**  by clicking this [TrainMnistForFlask.ipynb](../TrainMnistForFlask.ipynb) file.
-2. Saved the trained weights with `mnist_cnn.pt` name in [mnist_deployed_pytorch folder](../mnist_deployed_pytorch folder).
+1. Train the CNN model on **MNIST dataset**  by clicking this [4_1_TrainMnistForFlask.ipynb](../4_1_TrainMnistForFlask.ipynb) file.
+2. Saved the trained weights with `mnist_cnn.pt` name in [4_2_mnist_deployed_pytorch folder](../4_2_mnist_deployed_pytorch).
 3. Run the flask app as explained below.
 
 
 # Note 
 
-If model architecture is changed in  [TrainMnistForFlask.ipynb](../TrainMnistForFlask.ipynb) file corresponding architecture should also be update in flask `app.py` file 
+If model architecture is changed in  [4_1_TrainMnistForFlask.ipynb](../4_1_TrainMnistForFlask.ipynb) file corresponding architecture should also be update in flask `app.py` file 

@@ -1,9 +1,10 @@
 # Session 4
-## [Weight Initialization Schemes](Intializers.ipynb)
+## [Weight Initialization Schemes](1_Intializers.ipynb)
 
-## [Data Augmentation](Data_Augmentation.ipynb)
+## [Regularization and Normalization](2_Normalization&Regularization.ipynb)
 
-## [Regularization and Normalization](Normalization&Regularization.ipynb)
+## [Data Augmentation](3_Data_Augmentation.ipynb)
+
 
 1. L1 Regularization
 
@@ -13,7 +14,7 @@
 5. Batch Normalization
 6. Layer Normalization (Brief)
 
-## [Advance CNN Architectures](Architectures in CNN.ipynb)
+## [Advance CNN Architectures](4_Architectures in CNN.ipynb)
 
 1. LeNet
 2. AlexNet
@@ -26,11 +27,13 @@
 9. Inception v1
 10. Inception v2 and v3
 
+## [Densnet Trained from scratch in Pytorch on Cifar10](5_1_Pytorch_Densenet_cifar_10.ipynb)
 
+## [Densnet Trained from scratch in Keras on Cifar10](5_2_Keras_Densenet_cifar_10.ipynb)
 
-## [Dogs vs Cats Classification Kaggle Kernel](Pytorch_cat_vs_dog.ipynb)
+## [Vgg19 Trained from scratch in Keras on Cats vs Dogs in Kaggle](6_1_Keras_Kaggle_Cat_vs_Dogs_vgg19.ipynb)
 
-## [Dogs vs Cats Classification Colab version](Pytorch_Dog_vs_Cat_colab.ipynb)
+##  [Vgg19 Trained from scratch in Pytorch on Cats vs Dogs in Kaggle](6_2_pytorch_Kaggle_cat_vs_dog.ipynb)
 
-## [Dogs vs Cats Classification Keras Version](Kaggle_Cat_vs_Dogs_vgg19.ipynb)
+## [Vgg19 Trained from scratch in Pytorch on Cats vs Dogs in Colab](6_3_Pytorch_Colab_cat_vs_dog.ipynb.ipynb)
 
