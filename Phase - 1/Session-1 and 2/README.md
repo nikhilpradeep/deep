@@ -6,14 +6,7 @@ The objective of Session 1 will be to get you started with Machine Learning and 
 
 What we will cover:
 
-1. Introduction to Python
-
-2. Introduction to Numpy
-
-3. Introduction to Matplotlib
-
-4. Machine Learning Basics
-
+1. Machine Learning Basics
       * What are Algorithms
 
       * Bias vs Variance trade off
@@ -39,5 +32,3 @@ What we will cover:
       * Optimizers
 
 6. Building Image Classification Model using Keras and Pytorch (MNIST Dataset).
-
-7. Flask Deployment on Local System

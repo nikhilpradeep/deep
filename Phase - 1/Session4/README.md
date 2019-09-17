@@ -3,16 +3,14 @@
 
 ## [Regularization and Normalization](2_Normalization&Regularization.ipynb)
 
-## [Data Augmentation](3_Data_Augmentation.ipynb)
-
-
 1. L1 Regularization
-
 2. L2 Regularization
 3. Dropout
 4. Label Smoothing
 5. Batch Normalization
 6. Layer Normalization (Brief)
+
+## [Data Augmentation](3_Data_Augmentation.ipynb)
 
 ## [Advance CNN Architectures](4_Architectures in CNN.ipynb)
 
