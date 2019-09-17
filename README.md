@@ -24,7 +24,6 @@ We are dividing our Meetup Sessions in Multiple  phases. Theses Phases are defin
 
 #### [Phase-2](Phase - 2) 
 
- * Object Detection
   * - [X]  SSD
     * Training SSD from scratch
     * Improving SSD using Focal Loss
